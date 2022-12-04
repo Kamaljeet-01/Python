@@ -5,6 +5,6 @@ for i  in range(2,num):
     else:
         flag=False
 if(flag==True):
-    print("not a prime")
+    print(i,"not a prime")
 else:
-    print("is prime")
+    print(i,"is prime")
