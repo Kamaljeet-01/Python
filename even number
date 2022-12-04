@@ -6,8 +6,8 @@ else:
 
 # python code to remove space in string .
 
-s=str(input(""))
-for ch in s:
+string=str(input(""))
+for ch in string:
     if(ch==" "):
         continue
     print(ch,end='')
