@@ -1,4 +1,3 @@
-'''
 n=eval(input(""))
 m=eval(input(""))
 if(n>=0 and m<0)or (m>=0 and n<0):
@@ -12,8 +11,6 @@ if(n>=0 )==(m>=0):
     print("true")
 else:
     print("false")
-'''
-'''
 #greatest integer number bt 2 number .
 
 a=int(input(""))
@@ -88,7 +85,7 @@ s=str(d)
 sum=int(s[1:2])+int(s[2:4])+int(s[4:])
 print(sum)
 
-'''
+
 a=9
 if(5<a<=10):
     print("class continue")
