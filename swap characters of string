@@ -1,4 +1,4 @@
-string=input()
+string=input("Enter a string : ")
 s1=""
 for i in string:
     if(i.isupper() == True):
