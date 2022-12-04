@@ -1,7 +1,5 @@
 import random
 import array
- 
-# maximum length of password needed
 MAX_LEN =int(input())
  
 # declare arrays of the character that we need in out password
