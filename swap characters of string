@@ -1,7 +1,7 @@
 string=input("Enter a string : ")
 s1=""
 for i in string:
-    if(i.isupper() == True):
+    if(i.isupper()==True):
         s1+=i.lower()
     else:
         s1+=i.upper()
