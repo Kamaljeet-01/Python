@@ -18,5 +18,3 @@ if (c1==0 and len(a)>=12):
   print("Strong password")
 elif(c1==0 and len(a)!=12):
   print("invalid length")
-else:
-  print("Error")
