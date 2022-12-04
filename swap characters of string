@@ -1,0 +1,8 @@
+string=input()
+s1=""
+for i in string:
+    if(i.isupper() == True):
+        s1+=i.lower()
+    else:
+        s1+=i.upper()
+print(s1)
