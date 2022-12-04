@@ -1,3 +1,6 @@
 # Python
 Python Basic programming
-this program is to find even number.
+This repository is for python programs only in which i have uploaded so many programmes like ;
+1.  weather a number is even or not 
+2.  printing even numbers upto that given number only.
+
