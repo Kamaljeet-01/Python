@@ -4,3 +4,10 @@ if num%2==0:
 else:
   print(num ,"is odd number")
 
+# python code to remove space in string .
+
+s=str(input(""))
+for ch in s:
+    if(ch==" "):
+        continue
+    print(ch,end='')
