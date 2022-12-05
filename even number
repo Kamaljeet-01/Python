@@ -1,8 +1,8 @@
 num=int(input())
 if num%2==0:
-  print(num ,"is even number")
+  print(num,"is even number")
 else:
-  print(num ,"is odd number")
+  print(num,"is odd number")
 
 # python code to remove space in string .
 
@@ -11,3 +11,4 @@ for ch in string:
     if(ch==" "):
         continue
     print(ch,end='')
+
