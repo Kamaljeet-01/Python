@@ -6,3 +6,4 @@ This repository is for python programs only in which i have uploaded so many pro
 3.  Python project to print random strong password.
 4.  printing prime number.
 5.  removing space from string.
+6.  I have added some class work files.
